@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="stos.cpp" />
+    <ClCompile Include="stoss.cpp" />
     <ClCompile Include="struktury_danych---projekt_wstepny.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stos.h" />
+    <ClInclude Include="stoss.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
